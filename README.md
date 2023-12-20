@@ -2,7 +2,7 @@
 
 This script streamlines the installation and setup of `kexec-tools` for seamless kernel updates without full system reboots. It creates `reboot.sh` and `softrestart.sh` scripts, utilizing `kexec-reboot` for efficient kernel management.
 
-## Who Might Benefit?
+# Who Might Benefit?
 
 Designed for system administrators and individuals overseeing critical systems, this script is invaluable for environments requiring uninterrupted service. It's ideal for servers hosting essential services or applications, ensuring minimal downtime and continuous operations during kernel updates.
 
